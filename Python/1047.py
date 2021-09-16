@@ -1,0 +1,6 @@
+hi, mi, hf, mf = input().split()
+hi = float(hi)
+mi = float(mi)
+hf = float(hf)
+mf = float(mf)
+print (hf)
